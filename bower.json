@@ -1,0 +1,21 @@
+{
+  "name": "IPM",
+  "authors": [
+    "manuel-94 <manuel-94@live.com.mx>"
+  ],
+  "description": "Proyecto",
+  "main": "index.html",
+  "keywords": [
+    "Escuela"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
